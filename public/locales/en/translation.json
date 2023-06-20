@@ -1,0 +1,17 @@
+{
+    "errorPage": {
+        "unknownError": "Unknown error"
+    },
+    "rootPage": {
+        "title": "Green API Test Assignment"
+    },
+    "loginPage": {
+        "title": "Authorization",
+        "login": "Log in",
+        "invalidCredentials": "Invalid credentials"
+    },
+    "navbar": {
+        "logout": "Log out"
+    },
+    "test": "London is the capital of Great Britain"
+}

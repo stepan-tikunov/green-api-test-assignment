@@ -1,0 +1,17 @@
+{
+    "errorPage": {
+        "unknownError": "Неизвестная ошибка"
+    },
+    "rootPage": {
+        "title": "Тестовое задание Green API"
+    },
+    "loginPage": {
+        "title": "Авторизация",
+        "login": "Войти",
+        "invalidCredentials": "Вы указали неверные данные авторизации"
+    },
+    "navbar": {
+        "logout": "Выйти"
+    },
+    "test": "Лондон - столица Великобритании"
+}
